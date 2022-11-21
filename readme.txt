@@ -1,4 +1,4 @@
- #cd .. < projectA > main.tf >
+ #cd .. < projectA\main.tf >
  
  provider "aws" {
   region     = "eu-north-1"
