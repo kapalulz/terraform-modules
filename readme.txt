@@ -2,8 +2,8 @@
  
  provider "aws" {
   region     = "eu-north-1"
-  access_key = "AKIAZYSWY6T2AQLJDHFC"
-  secret_key = "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"
+  access_key = "**************************"
+  secret_key = ""**************************""
 }
 
 /*
